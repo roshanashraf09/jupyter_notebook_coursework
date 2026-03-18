@@ -1,0 +1,31 @@
+# Folders
+venv/
+models/
+
+# Jupyter Notebooks - drafts
+jupyter_notebooks/lesson_8.2.ipynb
+jupyter_notebooks/lesson_9.1.ipynb
+jupyter_notebooks/lesson_9.2.ipynb
+jupyter_notebooks/lesson_10.1.ipynb
+jupyter_notebooks/lesson_10.2.ipynb
+jupyter_notebooks/lesson_11.1.ipynb
+jupyter_notebooks/lesson_11.2.ipynb
+
+jupyter_notebooks/current_exercises.ipynb
+
+# Datasets
+datasets/mall_customers_k-means.csv
+datasets/fashion_mnist_processed.npz
+
+# __Course work support (samples)__
+
+cw_support/
+
+# Coursework datasets
+
+
+# Might be useful - simple linear regression using statsmodels
+jupyter_notebooks/lin_regr_statsmodels.ipynb
+datasets/simple_lin_regression.csv
+
+
